@@ -1,4 +1,4 @@
-vídeo (https://youtu.be/qFoamSRRPkg)
+usevídeo (https://youtu.be/qFoamSRRPkg)
 
 Engine originally used on BT ENGINE , intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
@@ -125,4 +125,4 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 * You can enable "Combo Stacking" in Gameplay Options. This causes the combo sprites to just be one sprite with an animation rather than sprites spawning each note hit.
 
 
-#### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99
+#### BT Engine bt andrew
