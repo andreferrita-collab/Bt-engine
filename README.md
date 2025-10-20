@@ -1,6 +1,6 @@
-![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
+![PsychionalEngineLogo](docs/img/BT-engine-logo)
 
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+Engine originally used on BT ENGINE , intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
 
@@ -17,12 +17,13 @@ To start you off, disabling *Video Cutscenes* should be simple, simply delete th
 Same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file.
 
 ## Softcoding (.lua/.hx)
-For this you can head over to [the wiki](https://shadowmario.github.io/psychengine.lua)
+For this you can head over to )
+(https/docs.google.image)
 
 There you can learn how to use the 212 PlayState funcions in your mod!
 
 ## Credits:
-* Shadow Mario - Main Programmer and Head of Psych Engine.
+* Shadow Mario - created code
 * Riveren - Main Artist/Animator of Psych Engine.
 
 ### Special Thanks
@@ -47,7 +48,7 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 
 ## Attractive animated dialogue boxes:
 
-![Animated Dialogue Boxes](docs/img/dialogue.gif)
+![Animated Dialogue Boxes]()
 
 ## New Main Menu
 * A brand new menu that makes your experience even better!
